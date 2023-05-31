@@ -1,2 +1,2 @@
 # e01repo
-semiautomatic cardsheet machine
+pattern drawing machine
